@@ -1,11 +1,27 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# 👋 Welcome
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+Thank you for visiting my portfolio! I'm currently in the process of building out this section to share more about my journey, background, and interests in data science and software engineering.
 
+## Coming Soon
+
+More content will be added here shortly. Stay tuned for updates including:
+
+- 📘 Personal background and story  
+- 🧠 Technical interests and learning goals  
+- 🛠️ Tools and technologies I enjoy working with  
+
+In the meantime, feel free to check out:
+
+- [📄 My Resume](Joshua%20Macias%20Vmock%20Resume.pdf){target=_blank}  
+- [💼 LinkedIn](https://linkedin.com/in/joshua-macias-01655017a){target=_blank}  
+- [🐙 GitHub](https://github.com/joshuaamacias){target=_blank}  
+
+---
+
+> *“This page is under development, but I'm excited to share more with you soon!”*
