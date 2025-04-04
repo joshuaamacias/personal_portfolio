@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-subtitle: "My Data Science Portfolio"
+subtitle: "Personal Portfolio"
 format: html
 ---
 
