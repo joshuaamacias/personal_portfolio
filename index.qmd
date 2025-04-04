@@ -1,10 +1,61 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# 👋 Joshua Macias
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+**Aspiring Data Scientist | Software Engineer | Full-stack Developer**  
+📍 Rexburg, Idaho | Fluent in English & Spanish
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering**  
+Brigham Young University - Idaho (Jan 2023 – Apr 2026)  
+- Cluster in Software Design (Algorithms, Modularization, Inheritance)
+- Certified in Computing Programming, IT Fundamentals, and Web Frontend  
+- Passionate about AI, Machine Learning, Large Language Models, and Data Science
+
+---
+
+## 💼 Experience Highlights
+
+**Student Records and Registration Specialist**  
+*BYU–Idaho (Nov 2024 – Present)*  
+- Advised 10+ students daily and reduced registration errors by 20%  
+- Optimized scheduling for 45+ office assistants
+
+**Team Lead – Food Services, Chick-fil-A**  
+*BYU–Idaho (Sep 2023 – Sep 2024)*  
+- Managed peak operations with a 10-person team  
+- Onboarded and trained 10 new employees per semester
+
+**Operations Supervisor – LaarCourier / UPS**  
+*Ecuador (Jul 2019 – Jul 2022)*  
+- Improved delivery efficiency by 25% through route optimization  
+- Led weekly inventory and logistics planning
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, C#, C++, Rust  
+- **Databases:** SQL  
+- **Web:** HTML, CSS, JavaScript, React Native  
+- **Specialties:** AI, Process Automation, Leadership & Conflict Resolution
+
+---
+
+## 🌐 Let's Connect
+
+- [📧 mac22045@byui.edu](mailto:mac22045@byui.edu)  
+- [💼 LinkedIn](https://linkedin.com/in/joshua-macias-01655017a){target=_blank}  
+- [📁 Download My Resume](Joshua%20Macias%20Vmock%20Resume.pdf){target=_blank}  
+- [🐙 GitHub](https://github.com/joshuaamacias){target=_blank}
+
+---
+
+> “Striving to bridge the gap between software engineering and data-driven decision making.”
