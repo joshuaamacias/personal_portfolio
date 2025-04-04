@@ -3,12 +3,11 @@ layout: cv
 title: Joshua Macias's CV
 ---
 # Joshua Macias
-Physicist, Mathematician, Cambridge professor.
+Bachelor of Science in Software Engineering
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="linkedin.com/in/joshua-macias-01655017a/">linkedin.com/in/joshua-macias-01655017a/</a>
+
 
 
 ## Currently
@@ -17,7 +16,7 @@ Senior Year at Brigham Young University Idaho. Certificates in Computing Program
 
 ### Specialized in
 
-HTML, CSS, Python, Databases, and Video Production.
+HTML, CSS, Python, Databases, AI & Process Automation, and Video Production.
 
 
 ### Research interests
@@ -35,7 +34,34 @@ Rexburg - Idaho
 ### Student Records and Registration Specialist At BYUI
 
 `November 2024 - Present`
-  Advised 10+ students daily with registration, course adjustments, and academic policies, reducing processing 
+ - Advised 10+ students daily with registration, course adjustments, and academic policies, reducing processing 
 errors by 20%.
-  Resolved scheduling conflicts for 45 department office assistants, optimizing course arrangements and 
+ - Resolved scheduling conflicts for 45 department office assistants, optimizing course arrangements and 
 enhancing efficiency.
+
+
+### Chick-fil-A / Food Services Team Leader
+
+`September 2023 - September 2024`
+
+- Managed high-volume customer orders during peak hours, coordinating with a 10-person kitchen staff to 
+maintain efficiency.
+- Trained and onboarded 10 new employees per semester in food safety and operational procedures.
+-  Collaborated with recruitment teams across three departments to improve hiring and training processes.
+
+### Operations Supervisor at LaarCourier Express / UPS
+
+`July 2019 - July 2022`
+
+- Conducted weekly inventory assessments to optimize operational efficiency.
+- Analyzed daily reports to prioritize new routes, improving delivery efficiency by 25%.
+
+## Volunteer Experience
+### Full time Missionary for The Church of Jesus Christ of Latter-Day Saints
+
+`October 2016 - October 2018`
+
+- Conducted and led monthly training sessions for 110+ volunteers, focusing on ethics, communication, and 
+leadership.
+- Organized collaborative efforts with seven local nonprofits, facilitating food and clothing drives for underserved 
+communities.
