@@ -6,7 +6,8 @@ title: Joshua Macias's CV
 Bachelor of Science in Software Engineering
 
 <div id="webaddress">
-<a href="linkedin.com/in/joshua-macias-01655017a/">linkedin.com/in/joshua-macias-01655017a/</a>
+<a href="linkedin.com/in/joshua-macias-01655017a/">linkedin.com/in/joshua-macias-01655017a/ | LinkedIn Profile</a>
+<a href="Joshua Macias Vmock Resume.pdf">Resume</a>
 
 
 
